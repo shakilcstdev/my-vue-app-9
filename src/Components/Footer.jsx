@@ -27,9 +27,7 @@ const Footer = () => {
               <a href="https://www.linkedin.com/in/shakildv/" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-[#006A71] transition-colors">
                 <FaLinkedinIn className="h-5 w-5" />
               </a>
-              <a href="https://x.com/rijianmaruf" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-[#006A71] transition-colors">
-                <FaTwitter className="h-5 w-5" />
-              </a>
+            
               <a href="https://www.facebook.com/share/15cNFg8Ftp/" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-[#006A71] transition-colors">
                 <FaFacebook className="h-5 w-5" />
               </a>
@@ -120,7 +118,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col md:flex-row md:items-center md:justify-between space-y-4 md:space-y-0">
             <div className="text-sm text-gray-500">
-              © {currentYear} JobPortal. All rights reserved.
+              © {currentYear} JobTrack. All rights reserved.
             </div>
            
             <div className="md:mt-0 flex flex-wrap gap-4">
