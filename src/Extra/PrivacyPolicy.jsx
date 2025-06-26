@@ -18,7 +18,7 @@ const PrivacyPolicy = () => {
           <p className="text-gray-600 mb-2">Last updated: May 29, 2023</p>
           
           <p className="text-gray-600 mb-8">
-            JobPortal is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
+            JobTrack is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
           </p>
           
           {/* Table of Contents */}
@@ -169,7 +169,7 @@ const PrivacyPolicy = () => {
                 If you have questions or concerns about this Privacy Policy, please contact us at:
               </p>
               <div className="bg-gray-50 p-4 rounded-lg">
-                <p className="text-gray-700">JobPortal Inc.</p>
+                <p className="text-gray-700">JobTrack Inc.</p>
                 <p className="text-gray-700">House-194/A, Road-7, Block-C</p>
                 <p className="text-gray-700">Bashundhara R/A, Dhaka</p>
                 <p className="text-gray-700 mt-2">Email: <a href="mailto:rijoanmaruf@gmail.com" className="text-[#006A71] hover:underline">rijoanmaruf@gmail.com</a></p>

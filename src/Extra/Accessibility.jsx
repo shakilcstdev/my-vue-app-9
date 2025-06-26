@@ -9,7 +9,7 @@ const Accessibility = () => {
           <h1 className="text-3xl font-bold text-gray-900 mb-6">Accessibility Statement</h1>
           
           <p className="text-gray-600 mb-6">
-            At JobPortal, we are committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone, and applying the relevant accessibility standards.
+            At JobTrack, we are committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone, and applying the relevant accessibility standards.
           </p>
           
           <div className="space-y-8">
@@ -40,7 +40,7 @@ const Accessibility = () => {
             <section>
               <h2 className="text-xl font-semibold text-gray-800 mb-3">Feedback</h2>
               <p className="text-gray-600 mb-4">
-                We welcome your feedback on the accessibility of JobPortal. Please let us know if you encounter accessibility barriers:
+                We welcome your feedback on the accessibility of JobTrack. Please let us know if you encounter accessibility barriers:
               </p>
               <ul className="list-disc pl-6 space-y-1 text-gray-600">
                 <li>Email: <a href="mailto:rijoanmaruf@gmail.com" className="text-[#006A71] hover:underline">rijoanmaruf@gmail.com</a></li>
@@ -51,7 +51,7 @@ const Accessibility = () => {
             <section>
               <h2 className="text-xl font-semibold text-gray-800 mb-3">Compatibility</h2>
               <p className="text-gray-600">
-                JobPortal is designed to be compatible with the following assistive technologies:
+                JobTrack is designed to be compatible with the following assistive technologies:
               </p>
               <ul className="list-disc pl-6 space-y-1 mt-2 text-gray-600">
                 <li>JAWS and NVDA screen readers</li>

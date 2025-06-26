@@ -148,7 +148,7 @@ const TermsOfService = () => {
             <section id="liability">
               <h2 className="text-xl font-semibold text-gray-800 mb-3">7. Limitation of Liability</h2>
               <p className="text-gray-600 mb-3">
-                In no event shall JobPortal, its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:
+                In no event shall JobTrack, its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:
               </p>
               <ul className="list-disc pl-6 space-y-1 text-gray-600">
                 <li>Your access to or use of or inability to access or use our services</li>

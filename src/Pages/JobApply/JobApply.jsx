@@ -171,7 +171,7 @@ const JobApply = () => {
                   value={formData.github}
                   onChange={handleChange}
                   className="w-full px-4 py-3 bg-gray-50 border border-gray-200 rounded-lg focus:ring-2 focus:ring-[#006A71] focus:border-transparent transition-all duration-200 outline-none"
-                  placeholder="https://github.com/yourusername"
+                  placeholder="https://github.com/shakilcstdev"
                   required
                 />
               </div>
@@ -194,7 +194,7 @@ const JobApply = () => {
                   value={formData.linkedin}
                   onChange={handleChange}
                   className="w-full px-4 py-3 bg-gray-50 border border-gray-200 rounded-lg focus:ring-2 focus:ring-[#006A71] focus:border-transparent transition-all duration-200 outline-none"
-                  placeholder="https://linkedin.com/in/yourprofile"
+                  placeholder="https://www.linkedin.com/in/shakildv/"
                   required
                 />
               </div>

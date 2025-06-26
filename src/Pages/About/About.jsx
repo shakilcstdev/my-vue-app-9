@@ -16,7 +16,7 @@ const About = () => {
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 md:py-32">
           <div className="md:w-2/3">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6">About JobPortal</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6">About JobTrack</h1>
             <p className="text-xl md:text-2xl text-white/90 mb-8">
               Transforming how talent connects with opportunity in the modern workforce.
             </p>
@@ -83,7 +83,7 @@ const About = () => {
                     <span className="inline-block px-3 py-1 rounded-full bg-[#006A71]/10 text-[#006A71] text-sm font-medium mb-3">2023</span>
                     <h3 className="text-xl font-semibold text-gray-900 mb-2">The Beginning</h3>
                     <p className="text-gray-700">
-                      JobPortal was founded with a simple idea: make job searching and hiring easier, faster, and more human.
+                      JobTrack was founded with a simple idea: make job searching and hiring easier, faster, and more human.
                     </p>
                   </div>
                 </div>
@@ -278,7 +278,7 @@ const About = () => {
             <div className="bg-white p-8 rounded-xl shadow-md relative">
               <div className="text-[#006A71] text-5xl absolute -top-4 -left-2">"</div>
               <p className="text-gray-700 mb-6 pt-3">
-                JobPortal helped me find my dream job within just 2 weeks! The platform is so intuitive and the job matching algorithm is spot on.
+                JobTrack helped me find my dream job within just 2 weeks! The platform is so intuitive and the job matching algorithm is spot on.
               </p>
               <div className="flex items-center">
                 <img 
@@ -296,7 +296,7 @@ const About = () => {
             <div className="bg-white p-8 rounded-xl shadow-md relative">
               <div className="text-[#006A71] text-5xl absolute -top-4 -left-2">"</div>
               <p className="text-gray-700 mb-6 pt-3">
-                As a recruiter, JobPortal has revolutionized our hiring process. We've reduced our time-to-hire by 40% and found exceptional candidates.
+                As a recruiter, JobTrack has revolutionized our hiring process. We've reduced our time-to-hire by 40% and found exceptional candidates.
               </p>
               <div className="flex items-center">
                 <img 

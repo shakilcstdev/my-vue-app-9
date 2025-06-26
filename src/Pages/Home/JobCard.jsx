@@ -127,33 +127,3 @@ const JobCard = ({ job }) => {
 
 export default JobCard;
 
-// data will recive in this formate
-
-// "_id": "683880caecf4b48903997bf5",
-// "title": "Software Engineer",
-// "location": "Halishohor, Chittagong",
-// "jobType": "Hybrid",
-// "category": "Engineering",
-// "applicationDeadline": "2024-12-31",
-// "salaryRange": {
-// "min": 40000,
-// "max": 60000,
-// "currency": "bdt"
-// },
-// "description": "We are seeking a skilled Software Engineer to join our dynamic team. The candidate will work on diverse projects and contribute to innovative solutions.",
-// "company": "Favorite IT",
-// "requirements": [
-// "JavaScript",
-// "React",
-// "Node.js",
-// "MongoDB"
-// ],
-// "responsibilities": [
-// "Develop and maintain software",
-// "Collaborate with the team",
-// "Participate in code reviews"
-// ],
-// "status": "active",
-// "hr_email": "hr@techsolutions.com",
-// "hr_name": "Farhan Rahman",
-// "company_logo": "https://i.ibb.co/mXD5MNf/facebook.png"

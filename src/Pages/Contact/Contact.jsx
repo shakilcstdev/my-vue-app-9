@@ -35,7 +35,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="text-sm opacity-75">Phone</p>
-                    <p className="font-medium">+880 18136064**</p>
+                    <p className="font-medium">+880 017242187**</p>
                   </div>
                 </div>
 
@@ -45,7 +45,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="text-sm opacity-75">Email</p>
-                    <p className="font-medium">rijoanmaruf@gmail.com</p>
+                    <p className="font-medium">shakilahamed.s2000@gmail.com</p>
                   </div>
                 </div>
 
@@ -55,8 +55,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="text-sm opacity-75">Office</p>
-                    <p className="font-medium">Block C, Road 7,</p>
-                    <p className="font-medium">House 194/A, Dhaka</p>
+                    <p className="font-medium">Block , Road ,</p>
+                    <p className="font-medium">Habigoj,syleth</p>
                   </div>
                 </div>
               </div>
@@ -64,24 +64,18 @@ const Contact = () => {
               <div className="mt-16 relative z-10">
                 <p className="font-medium mb-4">Connect with us</p>
                 <div className="flex flex-wrap gap-3">
-                  <a href="https://www.linkedin.com/in/mdrijoanmaruf/" target="_blank" rel="noopener noreferrer" className="bg-white/20 p-3 rounded-full hover:bg-white/30 transition duration-300 hover:scale-110">
+                  <a href="https://www.linkedin.com/in/shakildv/" target="_blank" rel="noopener noreferrer" className="bg-white/20 p-3 rounded-full hover:bg-white/30 transition duration-300 hover:scale-110">
                     <BsLinkedin className="w-5 h-5" />
                   </a>
-                  <a href="https://x.com/rijianmaruf" target="_blank" rel="noopener noreferrer" className="bg-white/20 p-3 rounded-full hover:bg-white/30 transition duration-300 hover:scale-110">
-                    <FaXTwitter className="w-5 h-5" />
-                  </a>
-                  <a href="https://www.facebook.com/md.rijoanmaruf" target="_blank" rel="noopener noreferrer" className="bg-white/20 p-3 rounded-full hover:bg-white/30 transition duration-300 hover:scale-110">
+                  
+                  <a href="https://www.facebook.com/share/15cNFg8Ftp/" target="_blank" rel="noopener noreferrer" className="bg-white/20 p-3 rounded-full hover:bg-white/30 transition duration-300 hover:scale-110">
                     <BsFacebook className="w-5 h-5" />
                   </a>
-                  <a href="https://www.instagram.com/rijoanmaruf" target="_blank" rel="noopener noreferrer" className="bg-white/20 p-3 rounded-full hover:bg-white/30 transition duration-300 hover:scale-110">
-                    <BsInstagram className="w-5 h-5" />
-                  </a>
-                  <a href="https://github.com/mdrijoanmaruf" target="_blank" rel="noopener noreferrer" className="bg-white/20 p-3 rounded-full hover:bg-white/30 transition duration-300 hover:scale-110">
+                 
+                  <a href="https://github.com/shakilcstdev" target="_blank" rel="noopener noreferrer" className="bg-white/20 p-3 rounded-full hover:bg-white/30 transition duration-300 hover:scale-110">
                     <FaGithub className="w-5 h-5" />
                   </a>
-                  <a href="https://leetcode.com/u/mdrijoanmaruf/" target="_blank" rel="noopener noreferrer" className="bg-white/20 p-3 rounded-full hover:bg-white/30 transition duration-300 hover:scale-110">
-                    <SiLeetcode className="w-5 h-5" />
-                  </a>
+                  
                 </div>
               </div>
             </div>
